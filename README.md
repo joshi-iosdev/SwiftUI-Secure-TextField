@@ -25,7 +25,8 @@ This component helps in creating a better user experience by allowing users to v
 - Designed as a reusable SwiftUI view
 
 ## 📷 Preview
-(Add GIF or screenshot here)
+![preview](https://github.com/user-attachments/assets/71315731-234e-49bf-b3cb-65ea707b2db2)
+
 
 ## 📂 How to Use
 1. Clone the repository
