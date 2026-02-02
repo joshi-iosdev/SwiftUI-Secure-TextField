@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUI_Secure_TextFieldApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SecureTextFieldDemoView()
         }
     }
 }
